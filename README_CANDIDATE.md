@@ -10,7 +10,7 @@ The goal is to get a realistic snapshot of how you design APIs and work with a r
 
 ## What you are building
 
-You will build a small HTTP API that reads lesson content from Postgres, _assembles_ it into an ordered response, and records user progress.
+You will build a small HTTP API in a language/framework of your choice that reads lesson content from Postgres, _assembles_ it into an ordered response, and records user progress.
 
 The data model is “CMS-like”:
 
